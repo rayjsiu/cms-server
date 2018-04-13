@@ -1,3 +1,3 @@
 # cms-server
 
-Connect to mySQL database running on localhost:3306
+Connect to MySQL database `cms` running on localhost:3306
